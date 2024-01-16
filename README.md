@@ -1,2 +1,2 @@
-# jpa_front
-JPA Project frontend
+# maummode_front
+maummode Project frontend
